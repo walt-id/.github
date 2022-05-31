@@ -8,7 +8,7 @@
 * [Storage Kit](https://walt.id/storage-kit) - Zero trust data storage and data sharing for your applications.
 * *IDP Kit (coming soon) - Use SSI and NFTs with your legacy access management (C/IAM) tools.
 
-[Product Overview + How to get started &rarr;]](https://walt.id/get-started)
+[Product Overview + How to get started &rarr;](https://walt.id/get-started)
 
 #### Useful Links
 * 🗺️ Interested in what new features are coming up next? [Checkout our product roadmap](https://github.com/orgs/walt-id/projects/10/views/4)
