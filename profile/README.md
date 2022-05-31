@@ -1,5 +1,5 @@
 # 🖖 Welcome to walt.id!
-> we are build web3 identity and nft infrastructure so you don't have to re-invent the wheel. Our products are open source (Apache 2) and built for developers. 
+> We're building web3 identity and NFT infrastructure so you don't have to re-invent the wheel. Our products are open source (Apache 2) and built for developers. 
 
 #### Product Portfolio
 * [SSI Kit] (https://walt.id/ssi-kit) - Easy way to use web3 identity / Self-Sovereign Identity (SSI).
