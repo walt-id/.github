@@ -1,18 +1,3 @@
-## Identity and NFT Infrastructure for Developers. 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-
 # 🖖 Welcome to walt.id!
 > we are build web3 identity and nft infrastructure so you don't have to re-invent the wheel. Our products are open source (Apache 2) and built for developers. 
 
