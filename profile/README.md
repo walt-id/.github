@@ -4,7 +4,7 @@
 #### Product Portfolio
 * [SSI Kit](https://walt.id/ssi-kit) - Easy way to use web3 identity / Self-Sovereign Identity (SSI).
 * [NFT Kit](https://walt.id/nft-kit) - Easy way to use non-fungible tokens (NFTs).
-* [Wallet Kit](https://walt.id/wallet) - Extend your apps with web3 identity and NFT capabilities.
+* [Wallet Kit](https://walt.id/wallet) - Extend your apps with identity/SSI and NFT capabilities.
 * [Storage Kit](https://walt.id/storage-kit) - Zero trust data storage and data sharing for your applications.
 * *IDP Kit (coming soon) - Use SSI and NFTs with your legacy access management (C/IAM) tools.*
 
