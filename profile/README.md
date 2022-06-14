@@ -3,7 +3,7 @@
 
 #### Product Portfolio
 * **SSI Kit** ([GitHub](https://github.com/walt-id/waltid-ssikit)) ([docs](https://docs.walt.id/v/ssikit/ssi-kit/readme)) ([web](https://walt.id/ssi-kit))- Easy way to use web3 identity / Self-Sovereign Identity (SSI).
-* **NFT Kit** ([GitHub](https://github.com/walt-id/waltid-nftkit)) ([docs](https://docs.walt.id/v/nft-kit/nft-kit/readme) ([web](https://walt.id/nft-kit)) - Easy way to use non-fungible tokens (NFTs).
+* **NFT Kit** ([GitHub](https://github.com/walt-id/waltid-nftkit)) ([docs](https://docs.walt.id/v/nft-kit/nft-kit/readme)) ([web](https://walt.id/nft-kit)) - Easy way to use non-fungible tokens (NFTs).
 * **Wallet Kit** ([GitHub](https://github.com/walt-id/waltid-walletkit)) ([docs](https://docs.walt.id/v/web-wallet/wallet-kit/readme)) ([web](https://walt.id/wallet-kit)) - Extend your apps with identity/SSI and NFT capabilities.
 * **Storage Kit** ([GitHub](https://github.com/walt-id/waltid-storage-kit)) ([docs](https://docs.walt.id/v/storage-kit/storage-kit/ssi-kit-or-basics)) ([web](https://walt.id/storage-kit)) - Zero trust data storage and data sharing for your applications.
 * *IDP Kit (coming soon) - Use SSI and NFTs with your legacy access management (C/IAM) tools.*
