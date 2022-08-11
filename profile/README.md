@@ -11,7 +11,7 @@
 [Product Overview + How to get started &rarr;](https://walt.id/get-started)
 
 #### Useful Links
-* 💬 You have a question or want to suggest a new feature? Head over to our [dicussion channel] (https://github.com/walt-id/.github/discussions)
+* 💬 You have a question or want to suggest a new feature? Head over to our [dicussion channel](https://github.com/walt-id/.github/discussions)
 * 🗺️ Interested in what new features are coming up next? [Checkout our product roadmap](https://github.com/orgs/walt-id/projects/10/views/4)
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/walt-id/waltid-roadmap/issues/new?assignees=&labels=bug&template=feature_request.yml)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/walt-id/waltid-roadmap/issues/new?assignees=&labels=bug&template=bug_report.yml)
