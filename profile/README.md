@@ -52,7 +52,7 @@ Product/Feature announcements, updates, noteworthy news:
 
 ## Who is using walt.id?
 
-See that others have build with our infrastructure. Checkout our <a href="https://walt.id/case-studies" target="_blank">Case Studies</a>.
+See what others have build with our infrastructure. Checkout our <a href="https://walt.id/case-studies" target="_blank">Case Studies</a>.
 
 ## Resources 
 * <a href="https://docs.walt.id/" target="_blank">Documentation</a> - Technical docs for developers.
