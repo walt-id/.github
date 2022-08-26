@@ -5,7 +5,7 @@
     </a>    
 </div>
     <h2><a href="https://walt.id" target="_blank">Walt.id</a></h2>
-<p>Open source web3 infrastructure for identity, assets/NFTs, wallets and storage.</p>
+<p> Open source web3 identity and NFT infrastructure for developers and enterprises.</p>
 <a href="https://walt.id/community">
     <img src="https://img.shields.io/badge/Join-The Community-blue.svg?style=flat" alt="Join community!" />
   </a>
@@ -23,7 +23,7 @@
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Mint, distribute and verify digital assets like NFTs or fungible tokens
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Supercharge your app with the ability to manage, view and share identity data, NFTs or fungible tokens
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust storage/custody and privacy-preserving sharing of keys and senstive data.
-* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI- and NFT-based login for your app or services - also works with your existing access management (C/IAM) tools like KeyCloak. 
+* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI-/NFT-based login for your apps/services - works with web2 access management tools like KeyCloak. 
 
 ## Join the community
 
