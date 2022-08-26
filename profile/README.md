@@ -42,12 +42,13 @@ Connect, chat, build relationships: <a href="https://waltid-dev.slack.com/join/s
 
 Product/Feature announcements, updates, noteworthy news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> | <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a>
 
-See what others have build with our infrastructure. Checkout our <a href="https://walt.id/case-studies" target="_blank">Case Studies</a>.
+
 
 ## Resources 
 * <a href="https://docs.walt.id/" target="_blank">Documentation</a> - Technical docs for developers.
 * <a href="https://walt.id/blog" target="_blank">Blog</a> - Updates and announcements about our products and company.
 * <a href="https://walt.id/white-papers" target="_blank">Whitepapers</a> - Long reads about web3 identity, NFTs and wallets.
+* <a href="https://walt.id/case-studies" target="_blank">Case Studies</a> - What others build with our infrastructure and dev tools.
 
 ## Security
 
