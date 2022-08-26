@@ -5,7 +5,7 @@
     </a>    
 </div>
     <h2><a href="https://walt.id" target="_blank">Walt.id</a></h2>
-<p>We're building web3 identity and NFT infrastructure, so you don't have to re-invent the wheel.</p>
+<p>Open source web3 infrastructure for identity, assets/NFTs, wallets and storage.</p>
 <a href="https://walt.id/community">
     <img src="https://img.shields.io/badge/Join-The Community-blue.svg?style=flat" alt="Join community!" />
   </a>
@@ -17,15 +17,15 @@
 </div>
 
 
-## Get Started
+## Get started
 
-* <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Launch your next NFT collection
-* <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Publish your custom wallet 
-* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Use NFTs as login option (SSO) 
-* <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - web3 identity / Self-Sovereign Identity (SSI).
-* <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Zero trust data storage and data sharing for your applications.
+* <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - Create, issue and verify web3 identity / self-sovereign identity (SSI)
+* <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Mint, distribute and verify digital assets like NFTs or fungible tokens
+* <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Supercharge your app with the ability to manage, view and share identity data, NFTs or fungible tokens
+* <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust storage/custody and privacy-preserving sharing of keys and senstive data.
+* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI- and NFT-based login for your app or services - also works with your existing access management (C/IAM) tools like KeyCloak. 
 
 ## Join the community
 
-* Connect and get latest updates and news: <a href="https://discord.com/invite/zUnxncExF5">Discord</a> | <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a>
-* Get help, request features, report bugs: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
+* Connect and get the latest updates: <a href="https://discord.com/invite/zUnxncExF5">Discord</a> | <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a>
+* Get help, request features and report bugs: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
