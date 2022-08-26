@@ -19,19 +19,10 @@
 
 ## Get Started
 
-### NFTs
-
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Launch your next NFT collection
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Publish your custom wallet 
 * <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Use NFTs as login option (SSO) 
-
-### SSI 
 * <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - web3 identity / Self-Sovereign Identity (SSI).
-* <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Publish your custom wallet 
-* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Use Verifiable Credentials as login option (SSO) 
-
-
-### Storage
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Zero trust data storage and data sharing for your applications.
 
 ## Community
