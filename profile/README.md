@@ -67,11 +67,11 @@ Did you run into a bug or found a security vulnerability? [Open a bug report](ht
 
 You want to see what we are planning for the future? [Checkout our product roadmap](https://github.com/orgs/walt-id/projects/10/views/4)
 
-## Next
-
-<a href="https://walt.id/newsletter" target="_blank">Join our global community</a> of builders, innovators, web3 enthusiast and get all the latest updates.
-
-
 ## Contact
 
 Anything you want to talk about? [Contact us](https://walt.id/contact)
+
+
+## What is next?
+
+<a href="https://walt.id/newsletter" target="_blank">Join our global community</a> of builders, innovators, web3 enthusiast and get all the latest updates.
