@@ -43,6 +43,7 @@ Find the solution to a problem, share a feature idea, deepen your understanding:
 Connect, chat, build relationships:
 
 * <a href="https://waltid-dev.slack.com/join/shared_invite/zt-18slw2akx-XHWso1LIh1AHYJqDdNyjmA#/shared-invite/email" href="_blank">Slack Channel</a>
+* * <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a>
 
 Product/Feature announcements, updates, noteworthy news:
 
