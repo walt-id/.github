@@ -17,7 +17,7 @@
 </div>
 
 
-## Get Started
+## Products
 
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Launch your next NFT collection
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Publish your custom wallet 
