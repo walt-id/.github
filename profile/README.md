@@ -1,10 +1,6 @@
-<div style="text-align: center;">
+<div align="center">
 <div>
-    <svg width="70" height="70" viewBox="0 0 65 65" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="32.5" cy="32.5" r="32.5" fill="#0573F0"/>
-    <rect x="18" y="21" width="14" height="4" fill="#E6F6FF"/>
-    <path d="M52 34.5L48.5 34C46 47.5 31.5 47.5 31.5 47.5L31 51.5C46.2 51.9 51.3333 40.3333 52 34.5Z" fill="#E6F6FF"/>
-    </svg>
+    <img alt="walt.id" src="https://firebasestorage.googleapis.com/v0/b/images-5c9c1.appspot.com/o/Walt.id%20Logo.png?alt=media&token=3c225ae5-4685-4d4e-9646-c469faee2e7d" width=100/>
 </div>
 <h2>Walt.id</h2>
 <p>We're building web3 identity and NFT infrastructure, so you don't have to re-invent the wheel.</p>
