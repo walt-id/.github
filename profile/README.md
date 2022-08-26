@@ -17,7 +17,7 @@
 </div>
 
 
-## Products
+## Get Started
 
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Launch your next NFT collection
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Publish your custom wallet 
@@ -25,7 +25,7 @@
 * <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - web3 identity / Self-Sovereign Identity (SSI).
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Zero trust data storage and data sharing for your applications.
 
-## Community
+## Join The Community
 
 * Find the solution to a problem, share a feature idea, report a bug, deepen your understanding: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
 * Connect, chat, build relationships: <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
