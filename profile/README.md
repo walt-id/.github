@@ -25,7 +25,7 @@
 * <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - web3 identity / Self-Sovereign Identity (SSI).
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Zero trust data storage and data sharing for your applications.
 
-## Welcome To The Community 
+## Join the community
 
-* Join the community and get latest updates and news: <a href="https://discord.com/invite/zUnxncExF5">Discord</a> | <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a>
+* Connect and get latest updates and news: <a href="https://discord.com/invite/zUnxncExF5">Discord</a> | <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a>
 * Get help, request features, report bugs: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
