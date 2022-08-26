@@ -31,6 +31,6 @@
 * Connect, chat, build relationships: <a href="https://waltid-dev.slack.com/join/shared_invite/zt-18slw2akx-XHWso1LIh1AHYJqDdNyjmA#/shared-invite/email" href="_blank">Slack Channel</a> | <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
 * Product/Feature announcements, updates, noteworthy news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://walt.id/blog" target="_blank">Blog</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> | <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a> 
 
-## What is next?
+<hr>
 
 <a href="https://walt.id/newsletter" target="_blank">Join our global community</a> of builders, innovators, web3 enthusiast and get all the latest updates.
