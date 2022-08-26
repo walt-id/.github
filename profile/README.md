@@ -19,12 +19,21 @@
 
 ## Get started
 
+* <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - Infrastructure for web3 identity / self-sovereign identity
+* <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Infrastructure for NFTs or fungible tokens
+* <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Supercharge your app with web3 identity, NFTs or fungible tokens
+* <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust storage and privacy-preserving data sharing
+* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI-/NFT-based login for your app or service | works with web2 access management tools (e.g. KeyCloak) 
+
+---
+
 * <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - Use web3 identity / self-sovereign identity | create, issue, verify
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Use NFTs or fungible tokens | mint, distribute, verify
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Handle web3 identity, NFTs or fungible tokens with your app | store, manage, view, share
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust custody and privacy-preserving data sharing
 * <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI-/NFT-based login for your apps/services | works with web2 access management tools like KeyCloak. 
 
+---
 
 * <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - Create, issue, verify web3 identity / self-sovereign identity
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Mint, distribute, verify NFTs or fungible tokens
