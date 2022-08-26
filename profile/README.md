@@ -19,11 +19,11 @@
 
 ## Get started
 
-* <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - Infrastructure for web3 identity / self-sovereign identity
-* <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Infrastructure for non-fungible tokens / NFTs
+* <a href="https://github.com/walt-id/waltid-ssikit" target="_blank" style="font-weight:bold;">SSI Kit</a> - Use web3 identity / self-sovereign identity
+* <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Use non-fungible tokens / NFTs
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Supercharge your app with web3 identity, NFTs or fungible tokens
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust storage and privacy-preserving data sharing
-* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - SSI-/NFT-based login for your app / service | works with web2 access management tools (e.g. KeyCloak) 
+* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Use SSI-/NFT-based login for your app / service | works with web2 access management tools (e.g. KeyCloak) 
 
 
 ## Join the community
