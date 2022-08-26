@@ -1,8 +1,10 @@
 <div align="center">
 <div>
-    <img alt="walt.id" src="https://firebasestorage.googleapis.com/v0/b/images-5c9c1.appspot.com/o/Walt.id%20Logo.png?alt=media&token=3c225ae5-4685-4d4e-9646-c469faee2e7d" width=100/>
+    <a href="https://walt.id">
+    <img alt="walt.id" src="https://user-images.githubusercontent.com/48290617/186866872-7b5b079b-d729-4585-a354-1e97d316b36f.png" width=100/>
+    </a>    
 </div>
-<h2>Walt.id</h2>
+    <h2><a href="https://walt.id" target="_blank">Walt.id</a></h2>
 <p>We're building web3 identity and NFT infrastructure, so you don't have to re-invent the wheel.</p>
 <a href="https://walt.id/community">
     <img src="https://img.shields.io/badge/Join-The Community-blue.svg?style=flat" alt="Join community!" />
