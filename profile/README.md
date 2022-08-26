@@ -23,7 +23,7 @@
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Use digital assets like non-fungible tokens (NFTs)
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Supercharge your app with SSI, NFTs or fungible tokens
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust storage and privacy-preserving data sharing
-* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI-/NFT-based login for your app / service | works with web2 access management tools (e.g. KeyCloak) 
+* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI-/NFT-based login - works with web2 access management tools (e.g. KeyCloak) 
 
 
 ## Join the community
