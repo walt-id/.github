@@ -36,7 +36,7 @@
 
 ## Community
 
-Find the solution to a problem, share a feature idea, deepen your understanding: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
+Find the solution to a problem, share a feature idea, report a bug, deepen your understanding: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
 
 Connect, chat, build relationships: <a href="https://waltid-dev.slack.com/join/shared_invite/zt-18slw2akx-XHWso1LIh1AHYJqDdNyjmA#/shared-invite/email" href="_blank">Slack Channel</a> | <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
 
@@ -49,14 +49,6 @@ Product/Feature announcements, updates, noteworthy news: <a href="https://walt.i
 * <a href="https://walt.id/blog" target="_blank">Blog</a> - Updates and announcements about our products and company.
 * <a href="https://walt.id/white-papers" target="_blank">Whitepapers</a> - Long reads about web3 identity, NFTs and wallets.
 * <a href="https://walt.id/case-studies" target="_blank">Case Studies</a> - What others build with our infrastructure and dev tools.
-
-## Security
-
-Did you run into a bug or found a security vulnerability? [Open a bug report](https://github.com/walt-id/.github/discussions/5)
-
-## Roadmap 
-
-You want to see what we are planning for the future? [Checkout our product roadmap](https://github.com/orgs/walt-id/projects/10/views/4)
 
 
 ## What is next?
