@@ -28,5 +28,5 @@
 ## Join The Community
 
 * Get help, request features, report bugs: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
-* Connect, chat, build relationships: <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
-* Product/Feature announcements, updates, noteworthy news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://walt.id/blog" target="_blank">Blog</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> | <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a> 
+* Connect with the community: <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
+* Latest updates and news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> 
