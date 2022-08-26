@@ -38,7 +38,7 @@
 
 Find the solution to a problem, share a feature idea, deepen your understanding: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
 
-Connect, chat, build relationships: <a href="https://waltid-dev.slack.com/join/shared_invite/zt-18slw2akx-XHWso1LIh1AHYJqDdNyjmA#/shared-invite/email" href="_blank">Slack Channel</a> | <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a>
+Connect, chat, build relationships: <a href="https://waltid-dev.slack.com/join/shared_invite/zt-18slw2akx-XHWso1LIh1AHYJqDdNyjmA#/shared-invite/email" href="_blank">Slack Channel</a> | <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
 
 Product/Feature announcements, updates, noteworthy news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> | <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a>
 
@@ -57,10 +57,6 @@ Did you run into a bug or found a security vulnerability? [Open a bug report](ht
 ## Roadmap 
 
 You want to see what we are planning for the future? [Checkout our product roadmap](https://github.com/orgs/walt-id/projects/10/views/4)
-
-## Contact
-
-Anything you want to talk about? [Contact us](https://walt.id/contact)
 
 
 ## What is next?
