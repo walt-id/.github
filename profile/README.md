@@ -29,16 +29,7 @@
 
 * Find the solution to a problem, share a feature idea, report a bug, deepen your understanding: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a>
 * Connect, chat, build relationships: <a href="https://waltid-dev.slack.com/join/shared_invite/zt-18slw2akx-XHWso1LIh1AHYJqDdNyjmA#/shared-invite/email" href="_blank">Slack Channel</a> | <a href="https://discord.gg/zUnxncExF5" href="_blank">Discord</a> | [Contact us](https://walt.id/contact)
-* Product/Feature announcements, updates, noteworthy news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> | <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a>
-
-
-
-## Resources 
-* <a href="https://docs.walt.id/" target="_blank">Documentation</a> - Technical docs for developers.
-* <a href="https://walt.id/blog" target="_blank">Blog</a> - Updates and announcements about our products and company.
-* <a href="https://walt.id/white-papers" target="_blank">Whitepapers</a> - Long reads about web3 identity, NFTs and wallets.
-* <a href="https://walt.id/case-studies" target="_blank">Case Studies</a> - What others build with our infrastructure and dev tools.
-
+* Product/Feature announcements, updates, noteworthy news: <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://walt.id/blog" target="_blank">Blog</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a> | <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a> 
 
 ## What is next?
 
