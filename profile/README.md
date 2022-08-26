@@ -46,6 +46,7 @@ Connect, chat, build relationships:
 
 Product/Feature announcements, updates, noteworthy news:
 
+* <a href="https://walt.id/newsletter" target="_blank">Newsletter</a>
 * <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA" target="_blank">YouTube</a>
 * <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a>
 * <a href="https://at.linkedin.com/company/walt-id" target="_blank">LinkedIn</a>
