@@ -5,7 +5,7 @@
     </a>    
 </div>
     <h2><a href="https://walt.id" target="_blank">Walt.id</a></h2>
-<p> Open source web3 identity and NFT infrastructure for developers and enterprises.</p>
+<p> Open source identity, NFT and wallet infrastructure for developers and businesses.</p>
 <a href="https://walt.id/community">
     <img src="https://img.shields.io/badge/Join-The Community-blue.svg?style=flat" alt="Join community!" />
   </a>
