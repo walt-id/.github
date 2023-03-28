@@ -25,9 +25,10 @@
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your app with zero trust storage and privacy-preserving data sharing
 * <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI-/NFT-based login; works with web2 access management tools (e.g. KeyCloak) 
 
-## Roadmap
+## Roadmap & Features
 
 * [Public Roadmap](https://walt-id.notion.site/fcde1687baab42378b3047d4a22eeaca?v=1140dd17c17b4726a70cc1465d20866d) - What we have and will be working on
+* [Feature List](https://www.notion.so/walt-id/Feature-List-5177a61c9d9c410ab1912a0e8574f014) - Overview of all features (by product and by role).
 
 
 ## Join the community
