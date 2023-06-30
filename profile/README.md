@@ -23,7 +23,11 @@
 * <a href="https://github.com/walt-id/waltid-nftkit" target="_blank" style="font-weight:bold;">NFT Kit</a> - Use Non-Fungible Tokens (NFTs) & Soulbound Tokens (SBTs) on different blockchains.
 * <a href="https://github.com/walt-id/waltid-walletkit" target="_blank" style="font-weight:bold;">Wallet Kit</a> - Extend your applications with holistic capabilities for SSI/VCs & NFTs/SBTs.
 * <a href="https://github.com/walt-id/waltid-storage-kit" target="_blank" style="font-weight:bold;">Storage Kit</a> - Enhance your applications with zero trust storage & privacy-preserving data sharing.
-* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI/VC- & NFT/SBT-based login; works with web2 access management tools (e.g. KeyCloak) 
+* <a href="https://github.com/walt-id/waltid-idpkit" target="_blank" style="font-weight:bold;">IDP Kit</a> - Offer SSI/VC- & NFT/SBT-based login; works with web2 access management tools (e.g. KeyCloak)
+
+  ---
+
+* [Intro Video](https://youtu.be/Cy8BSMmEt8U) - A comprehensive overview of the capabilities offered by our tools.
 
 ## Roadmap & Features
 
