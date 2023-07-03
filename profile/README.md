@@ -25,6 +25,9 @@
 * [Storage Kit](https://github.com/walt-id/waltid-storage-kit) - Enhance your applications with zero trust storage & privacy-preserving data sharing.
 * [IDP Kit](https://github.com/walt-id/waltid-idpkit) - Offer SSI/VC- & NFT/SBT-based login; works with web2 access management tools (e.g. KeyCloak)
 
+#### Multi-Platform Libs (Kotlin, Java and JavaScript)
+* [SD-JWT](https://github.com/walt-id/waltid-ssikit) - Create JSON Web Tokens (JWTs) that support Selective Disclosure.
+
 ## Learn
 
 * [Intro Video](https://youtu.be/Cy8BSMmEt8U) - A comprehensive overview of the capabilities offered by our tools.
