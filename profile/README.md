@@ -26,7 +26,7 @@
 * [IDP Kit](https://github.com/walt-id/waltid-idpkit) - Offer SSI/VC- & NFT/SBT-based login; works with web2 access management tools (e.g. KeyCloak)
 
 #### Multi-Platform Libs (Kotlin, Java and JavaScript)
-* [SD-JWT](https://github.com/walt-id/waltid-ssikit) - Create JSON Web Tokens (JWTs) that support Selective Disclosure.
+* [SD-JWT](https://github.com/walt-id/waltid-sd-jwt) - Create JSON Web Tokens (JWTs) that support Selective Disclosure.
 
 ## Learn
 
