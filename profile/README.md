@@ -17,7 +17,7 @@
 </div>
 
 
-## Get started
+## Libaries
 
 * [SSI Kit](https://github.com/walt-id/waltid-ssikit) - Use Self-Sovereign Identity (SSI) & Verifiable Credentials (VCs) across ID ecosystems.
 * [NFT Kit](https://github.com/walt-id/waltid-nftkit) - Use Non-Fungible Tokens (NFTs) & Soulbound Tokens (SBTs) on different blockchains.
@@ -25,8 +25,16 @@
 * [Storage Kit](https://github.com/walt-id/waltid-storage-kit) - Enhance your applications with zero trust storage & privacy-preserving data sharing.
 * [IDP Kit](https://github.com/walt-id/waltid-idpkit) - Offer SSI/VC- & NFT/SBT-based login; works with web2 access management tools (e.g. KeyCloak)
 
-#### Multi-Platform Libs (Kotlin, Java and JavaScript)
+#### With Multi-Platform Support (Kotlin, Java, JavaScript)
 * [SD-JWT](https://github.com/walt-id/waltid-sd-jwt) - Create JSON Web Tokens (JWTs) that support Selective Disclosure.
+
+
+## Apps
+White-Label solutions build with our libraries
+
+* [Web Wallet](https://docs.walt.id/v/apps/solutions/web-wallet) - Enable user to manage VCs, DIDs, Keys and view NFTs
+* [Issuer Portal](https://github.com/walt-id/waltid-issuer-portal) - Issue VCs to your users
+* [Verifier Portal](https://github.com/walt-id/waltid-verifier-portal) - Verify VCs to enable access and more
 
 ## Learn
 
