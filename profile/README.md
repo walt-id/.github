@@ -30,7 +30,7 @@
 
 
 ## Apps
-White-Label solutions build with our libraries
+White-Label solutions built with our libraries:
 
 * [Web Wallet](https://docs.walt.id/v/apps/solutions/web-wallet) - Enable user to manage VCs, DIDs, Keys and view NFTs
 * [Issuer Portal](https://github.com/walt-id/waltid-issuer-portal) - Issue VCs to your users
