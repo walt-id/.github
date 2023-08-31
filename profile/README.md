@@ -1,7 +1,5 @@
 
-
-
-<img width="1430" alt="Group 32 (1)" src="https://github.com/walt-id/.github/assets/48290617/119847ca-a50e-44fc-a161-02ddf8e9bdcc">
+<img width="1430" alt="Group 32 (3)" src="https://github.com/walt-id/.github/assets/48290617/5d0ed28b-8cd3-4245-8557-83e55cee846e">
 
 
 
