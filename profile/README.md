@@ -1,13 +1,8 @@
-<div align="center">
-<div>
-    <a href="https://walt.id">
-    <img width="450" alt="waltid-logo" src="https://github.com/walt-id/.github/assets/48290617/444a998b-d210-43dd-9b8f-222c0c3c86f2">
-    </a>    
 
-</div>
-<h2> Open source identity & wallet infrastructure for developers and businesses.</h2>
 
-</div>
+
+<img width="1430" alt="Group 32 (1)" src="https://github.com/walt-id/.github/assets/48290617/119847ca-a50e-44fc-a161-02ddf8e9bdcc">
+
 
 
 ## Libaries
