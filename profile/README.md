@@ -12,7 +12,7 @@
 * [IDP Kit](https://github.com/walt-id/waltid-idpkit) - Offer SSI/VC- & NFT/SBT-based login; works with web2 access management tools (e.g. KeyCloak)
 
 #### With Multi-Platform Support (Kotlin, Java, JavaScript)
-* [mdoc](https://github.com/walt-id/waltid-mdoc) - Issue and verify mdoc credentials like mDL (ISO/IEC 18103-5)
+* [mdoc](https://github.com/walt-id/waltid-mdoc) - Issue and verify mdoc credentials like mDL (ISO/IEC 18013-5)
 * [SD-JWT](https://github.com/walt-id/waltid-sd-jwt) - Create JSON Web Tokens (JWTs) that support Selective Disclosure.
 
 
