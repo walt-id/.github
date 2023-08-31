@@ -1,18 +1,11 @@
 <div align="center">
 <div>
     <a href="https://walt.id">
-    <img alt="walt.id" src="https://user-images.githubusercontent.com/48290617/186866872-7b5b079b-d729-4585-a354-1e97d316b36f.png" width=100/>
+    <img width="450" alt="waltid-logo" src="https://github.com/walt-id/.github/assets/48290617/444a998b-d210-43dd-9b8f-222c0c3c86f2">
     </a>    
-</div>
-    <h2><a href="https://walt.id" target="_blank">Walt.id</a></h2>
-<p> Open source identity & wallet infrastructure for developers and businesses.</p>
-<a href="https://walt.id/community">
-    <img src="https://img.shields.io/badge/Join-The Community-blue.svg?style=flat" alt="Join community!" />
-  </a>
 
-<hr>
-<div>
 </div>
+<h2> Open source identity & wallet infrastructure for developers and businesses.</h2>
 
 </div>
 
