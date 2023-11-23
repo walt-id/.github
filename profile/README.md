@@ -1,7 +1,8 @@
 
 <img width="1430" alt="Group 32 (3)" src="https://github.com/walt-id/.github/assets/48290617/5d0ed28b-8cd3-4245-8557-83e55cee846e">
 
-
+## News
+Introducing the Community Stack the next iteration of our open-source products -> [Learn more](https://walt.id/blog/p/community-stack)
 
 ## Libaries
 
