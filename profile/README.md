@@ -1,8 +1,8 @@
 
 ## Getting Started
 
-- [The Community Stack](https://github.com/walt-id/waltid-identity) - Open-source multi-platform libraries, powerful APIs and easy-to-use white label apps for digital identity and wallets.
-- [The Cloud Platform](https://walt.id/waitlist) - Managed service (SaaS) that bundles open source libs, adds enterprise features and ensures compliance.
+- [The Community Stack](https://github.com/walt-id/waltid-identity): Open-source multi-platform libraries, powerful APIs and easy-to-use white label apps for digital identity and wallets.
+- [The Cloud Platform](https://walt.id/waitlist): Managed service (SaaS) that bundles open source libs, adds enterprise features and ensures compliance.
 
 
 ## Join the community
