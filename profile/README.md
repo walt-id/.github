@@ -2,7 +2,7 @@
 ## Getting Started
 
 - [The Community Stack](https://github.com/walt-id/waltid-identity) - A set of open-source multi-platform libraries, powerful APIs and easy-to-use white label apps.
-- [The walt.id Cloud](https://walt.id/waitlist) - Managed service (SaaS) that bundles open source libs, adds enterprise features and ensures compliance.
+- [The Cloud Platform](https://walt.id/waitlist) - Managed service (SaaS) that bundles open source libs, adds enterprise features and ensures compliance.
 
 
 ## Join the community
