@@ -3,8 +3,8 @@
 ### The Community Stack
 Open source multi-platform libs, powerful APIs, easy-to-use white label apps for digital identity and wallets.
 
-- [Identity Lib](https://github.com/walt-id/waltid-identity) - All-In-One identity and wallet toolkit.
-- [NFT-Kit](https://github.com/walt-id/waltid-nftkit) - All-In-One NFT infrastructure toolkit
+- [Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one identity and wallet toolkit.
+- [NFT-Kit](https://github.com/walt-id/waltid-nftkit) - All-in-one NFT infrastructure toolkit.
 - [IDP-Kit](https://github.com/walt-id/waltid-idpkit) - OIDC identity provider for digital identity.
 
 ### The Cloud Platform
