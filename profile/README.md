@@ -5,7 +5,6 @@ Open source multi-platform libs, powerful APIs, easy-to-use white label apps for
 
 - [Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one identity and wallet toolkit.
 - [NFT-Kit](https://github.com/walt-id/waltid-nftkit) - All-in-one NFT infrastructure toolkit.
-- [IDP-Kit](https://github.com/walt-id/waltid-idpkit) - OIDC identity provider for digital identity.
 
 ### The Cloud Platform
 Managed service (SaaS) that bundles open source libs, adds enterprise features and ensures compliance.
