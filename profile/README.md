@@ -1,19 +1,18 @@
 ## Getting Started
 
 ### The Community Stack
-Open source multi-platform libs, powerful APIs, easy-to-use white label apps for digital identity and wallets.
 
-- [Identity Lib](https://github.com/walt-id/waltid-identity) - All-in-one identity and wallet toolkit.
-- [NFT-Kit](https://github.com/walt-id/waltid-nftkit) - All-in-one NFT infrastructure toolkit.
+Our trusted open source multi-platform libs, powerful APIs and easy-to-use white label apps for digital identity and wallets.
 
-### The Cloud Platform
-Managed service (SaaS) that bundles open source libs, adds enterprise features and ensures compliance.
+→ [Get started](https://github.com/walt-id/waltid-identity)
 
-- [Join the waitlist](https://walt.id/waitlist)
+### The Enterprise Stack
 
+Our enterprise solution for building secure, compliant and robust identity and wallet solutions or platforms at scale.
+
+→ [Learn more](https://walt.id/blog/p/entreprise-stack)
 
 ## Join the community
 
-* Connect and get the latest updates: <a href="https://discord.gg/AW8AgqJthZ">Discord</a> | <a href="https://walt.id/newsletter">Newsletter</a> | <a href="https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA">YouTube</a> | <a href="https://mobile.twitter.com/walt_id" target="_blank">Twitter</a>
-* Get help, request features and report bugs: <a href="https://github.com/walt-id/.github/discussions" target="_blank">GitHub Discussions</a> | <a href="https://docs.walt.id" target="_blank">docs.walt.id</a>
-
+- Get the latest updates: [Discord](https://discord.gg/AW8AgqJthZ) | [Newsletter](https://walt.id/newsletter) | [YouTube](https://www.youtube.com/channel/UCXfOzrv3PIvmur_CmwwmdLA)
+- Get help, request features and report bugs: [docs.walt.id](https://docs.walt.id/) | [GitHub](https://github.com/walt-id/waltid-identity/issues)
