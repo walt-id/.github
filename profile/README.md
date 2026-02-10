@@ -10,7 +10,7 @@ Our trusted open source multi-platform libs, powerful APIs and easy-to-use white
 
 Our enterprise solution for building secure, compliant and robust identity and wallet solutions or platforms at scale.
 
-[Learn more](https://docs.walt.id/enterprise-stack/home)
+[Learn more](https://docs.walt.id/enterprise-stack/home) | [Contact us](https://walt.id/contact)
 
 ## Join the community
 
