@@ -4,13 +4,13 @@
 
 Our trusted open source multi-platform libs, powerful APIs and easy-to-use white label apps for digital identity and wallets.
 
-→ [Get started](https://github.com/walt-id/waltid-identity)
+[Get started](https://github.com/walt-id/waltid-identity) | [Docs](https://docs.walt.id/community-stack/home)
 
 ### The Enterprise Stack
 
 Our enterprise solution for building secure, compliant and robust identity and wallet solutions or platforms at scale.
 
-→ [Learn more](https://walt.id/blog/p/entreprise-stack)
+[Learn more](https://docs.walt.id/enterprise-stack/home) |
 
 ## Join the community
 
